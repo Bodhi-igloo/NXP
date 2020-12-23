@@ -1,2 +1,2 @@
 # NXP
-This repo consists of the projects build to execute on the FRDM25Z DK 
+This repo consists of the projects build to execute on the FRDM25Z DK coupled with simple electronic circuits.
